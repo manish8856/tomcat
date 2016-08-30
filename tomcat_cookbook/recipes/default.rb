@@ -1,3 +1,3 @@
-excute "tomcat" do
+execute "tomcat" do
  command " apt-get install tomcat7"
 end
