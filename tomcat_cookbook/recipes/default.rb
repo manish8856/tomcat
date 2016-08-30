@@ -1,3 +1,3 @@
 execute "tomcat" do
- command " apt-get install tomcat7"
+ command "sudo apt-get install tomcat7"
 end
